@@ -1,0 +1,9 @@
+# 本地配置和临时文件
+.env
+.env.*
+!.env.example
+node_modules/
+.wrangler/
+.DS_Store
+Thumbs.db
+*.log
